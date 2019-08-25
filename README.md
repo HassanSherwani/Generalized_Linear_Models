@@ -17,6 +17,6 @@ We shall start with sample OLS model. Then we ll apply
 
 This excercise is a coding practice. Theoratical concepts are discussed very briefly. For detailed theory, I have added .pdf file in repository.
 
-# Modules
+# Modules <br>
 
 Pandas, numpy, scipy, statsmodel , seaborn, matplotlib
