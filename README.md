@@ -1,5 +1,5 @@
 # Generalized_Linear_Models
-Using python library statsmodel
+Using library statsmodel in python
 
 # Content 
 
